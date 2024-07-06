@@ -1,39 +1,27 @@
 # Enudkwn
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+#### 自我介绍
 
-#### 软件架构
-软件架构说明
+    本科就读于重庆邮电大学，本科数据科学与大数据技术专业。热衷于了解新事物，对于自己喜欢的事物也会去积极学习/尝试
 
+#### 个人奖项
 
-#### 安装教程
+    暂无
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 项目参与
 
-#### 使用说明
+    暂无
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 大学经历
 
-#### 参与贡献
+    暂无
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 个人爱好
 
+1.  喜欢游玩各类主机游戏，也会去尝试部分新出的移动端游戏，对于roguelike类、动作类、FPS类、沙盒类尤为喜欢
+2.  喜欢听各种类型的音乐，例如摇滚、Vocaloid、J-pop、电子等，对于ZTMY、椎名林檎、reol的作品尤为喜欢
+3.  会去观看感兴趣的动漫作品，比如命运石之门、进击的巨人等
 
-#### 特技
+#### 好友
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+    
